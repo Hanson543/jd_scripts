@@ -7,7 +7,7 @@
 互助码shareCode请先手动运行脚本查看打印可看到
 一天只能帮助5个人。多出的助力码无效
 
-=================================Quantumultx=========================
+=================================Quantumultx=====
 [task_local]
 #东东萌宠
 15 6-18/6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true
